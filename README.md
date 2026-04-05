@@ -41,7 +41,7 @@ O **NetLab Educacional** é um laboratório virtual de redes e segurança, onde 
 
 ## 📦 Instalação
 
-1. Clone este repositório ou baixe o arquivo `ferramentaddos.py`:
+1. Clone este repositório ou baixe o arquivo `ferramenta.py`:
 
    ```bash
    git clone https://github.com/Yurigonpav/negacao_de_servico.git
